@@ -3,7 +3,7 @@
 
   angular.module('selfService')
 
-	.constant("BASE_URL", "https://62.171.190.235/fineract-provider/api/v1")
+	.constant("BASE_URL", "https://fineract.imedclinic.co.ke/fineract-provider/api/v1")
 
 	.constant('AUTH_EVENTS', {
 		updateUser: 'update-user',
